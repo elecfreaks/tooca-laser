@@ -1,0 +1,202 @@
+[
+  [
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Linden Plywood",
+      "thickness": "2mm",
+      "recommendedPower": "70",
+      "recommendedWorkSpeed": "6000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Bamboo",
+      "thickness": "5mm",
+      "recommendedPower": "75",
+      "recommendedWorkSpeed": "6000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Kraft Paper",
+      "thickness": "0.2mm",
+      "recommendedPower": "45",
+      "recommendedWorkSpeed": "6000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Red Card Paper",
+      "thickness": "0.2mm",
+      "recommendedPower": "28",
+      "recommendedWorkSpeed": "6000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Red Asphalt Felt",
+      "thickness": "0.8mm",
+      "recommendedPower": "22",
+      "recommendedWorkSpeed": "6000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Brown Leather",
+      "thickness": "0.65mm",
+      "recommendedPower": "45",
+      "recommendedWorkSpeed": "6000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Black Acrylic",
+      "thickness": "4.5mm",
+      "recommendedPower": "95",
+      "recommendedWorkSpeed": "3500",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "Anodized Aluminum",
+      "thickness": "3mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "100",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Engraving",
+      "material": "White Tile Painted Black",
+      "thickness": "6mm",
+      "recommendedPower": "95",
+      "recommendedWorkSpeed": "2000",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Linden Plywood",
+      "thickness": "2mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "300",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Linden Plywood",
+      "thickness": "2.5mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "260",
+      "passes": "3"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Linden Plywood",
+      "thickness": "4mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "220",
+      "passes": "3"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Linden Plywood",
+      "thickness": "5mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "220",
+      "passes": "4"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Bamboo",
+      "thickness": "5mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "220",
+      "passes": "4"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Kraft Paper",
+      "thickness": "0.2mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "1800",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Red Card Paper",
+      "thickness": "0.2mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "3500",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Red Asphalt Felt",
+      "thickness": "0.8mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "1800",
+      "passes": "1"
+    },
+    {
+      "model": "TOOCA Laser 1",
+      "laserPower": "5W",
+      "engravingSize": "400mm*415mm",
+      "processingMode": "Cutting",
+      "material": "Brown Leather",
+      "thickness": "0.65mm",
+      "recommendedPower": "100",
+      "recommendedWorkSpeed": "800",
+      "passes": "1"
+    }
+  ]
+]
